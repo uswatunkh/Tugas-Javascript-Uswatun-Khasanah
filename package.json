@@ -1,0 +1,14 @@
+{
+  "name": "javascript-1",
+  "version": "1.0.0",
+  "description": "Belajar Javascript hari pertama",
+  "main": "soal.js",
+  "scripts": {
+    "test": "node soal2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
